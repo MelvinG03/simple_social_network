@@ -4,3 +4,9 @@ def greetings():
     print("hello")
 
 greetings()
+
+
+def goodbye():
+    print("goodbye")
+
+goodbye()
